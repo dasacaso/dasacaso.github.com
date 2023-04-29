@@ -21,7 +21,7 @@ cerrar.forEach(function(close){
             content.classList.add("animated");
 
             setTimeout(function(){
-                location.href = "/";
+                location.href = "/boletines";
             },1000);
             
 });
